@@ -201,8 +201,7 @@ div.sidebar a:hover {
 
 aside a {
     display: block;
-    padding: 4px;
-    font-size: 15px;
+    padding: 2%;
     color: white;
 }
 
@@ -210,5 +209,5 @@ aside ul{
     padding:2%;
 }
 aside li{
-    padding: 5px 5px 5px 5px;
+    padding: 2% 2% 2% 2%;
 }
